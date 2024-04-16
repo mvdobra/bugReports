@@ -5,7 +5,7 @@ Down below are some bug report samples that I wrote, while I'm working at imobil
 
 ### Bug Report 1
 
-**Priority:**
+**Priority / Severity:**
 P3 / High
 
 **Title:**
@@ -35,7 +35,7 @@ IN PROGRESS
 
 ### Bug Report 2
 
-**Priority:**
+**Priority / Severity:**
 P2 / High
 
 **Title:**
@@ -67,7 +67,7 @@ NEW
 
 ### Bug Report 3
 
-**Priority:**
+**Priority / Severity:**
 P3 / Medium
 
 **Title:**
@@ -99,7 +99,7 @@ NEW
 
 ### Bug Report 4
 
-**Priority:**
+**Priority / Severity:**
 P2 / High
 
 **Title:**
