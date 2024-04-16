@@ -15,7 +15,7 @@ The "Anuntul Zilei" service isn't working right.
 The "Anuntul Zilei" service isn't working right. The ads aren't always showing like they should. At the same time, there are cases when another ad is displayed.
 
 **Steps to reproduce:**
-1. Go to www.imobiliare.ro.
+1. Go to imobiliare.ro.
 2. Perform a search in a region where "Anuntul zilei" is displayd, like: "Brasov (tot judetul) / Apartamente / De vanzare" or "Bucuresti, Herastrau / Apartamente / De vanzare".
 3. Visual check the "Anuntul Zilei" which needs to show up first in the ad list, with mention "Anuntul zilei".
 
