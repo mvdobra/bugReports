@@ -1,13 +1,15 @@
 ## Bug Report Samples
-Down below are some bug report samples that I wrote, while I'm working at imobiliare.ro, on pro.imobiliare.ro project.
+Down below are some bug report samples that I wrote, while I'm working at imobiliare.ro as a technical support engineer and also a software tester on pro.imobiliare.ro project.
 
 ----------------
 
-### Bug Report 1:
-for "Anuntul Zilei" service from pro.imobiliare.ro
+### Bug Report 1
 
-**Date:**
-April 12, 2024
+**Priority:**
+P3 / High
+
+**Title:**
+The "Anuntul Zilei" service isn't working right.
 
 **Description:**
 The "Anuntul Zilei" service isn't working right. The ads aren't always showing like they should. At the same time, there are cases when another ad is displayed.
@@ -26,13 +28,18 @@ In the "Anuntul zilei" section is shown a wrong ad or is not shown any ad.
 **Additional Notes:**
 These problems make "Anuntul Zilei" less useful and might upset customers. It's important to fix them fast.
 
+**Status:**
+IN PROGRESS
+
 ----------------
 
-### Bug Report 2:
-for "Top Listing" service from pro.imobiliare.ro
+### Bug Report 2
 
-**Date:**
-April 12, 2024
+**Priority:**
+P2 / High
+
+**Title:**
+The "Top Listing" service problems on pro.imobiliare.ro
 
 **Description:**
 The "Top Listing" service automatically disabling after 5-10 min after this was marked on a specific ad.
@@ -53,13 +60,18 @@ The "Top Listing" service was automatically unmarked from the ad after a 5-10 mi
 **Additional Notes:**
 These problems directly affect the customer. The customers paid for this period in which time the "Top Listing" service doesn't work.
 
+**Status:**
+NEW
+
 ----------------
 
-### Bug Report 3:
-for ad statistics from pro.imobiliare.ro
+### Bug Report 3
 
-**Date:**
-April 12, 2024
+**Priority:**
+P3 / Medium
+
+**Title:**
+Ad statistics problems on pro.imobiliare.ro
 
 **Description:**
 After accessing a dropdown menu "Vezi detalii" on a specific advertisement, the ad statistics fail to display on pro.imobiliare.ro.
@@ -80,13 +92,18 @@ Despite accessing the dropdown menu "Vezi detalii" from the ad, the ad statistic
 **Additional Notes:**
 This issue affects the ability of users to monitor the performance of their advertisements effectively. Urgent attention is needed to rectify this issue and restore full functionality.
 
+**Status:**
+NEW
+
 ----------------
 
-### Bug Report 4:
-for "Leaduri" section from adminonline.imobiliare.ro
+### Bug Report 4
 
-**Date:**
-April 12, 2024
+**Priority:**
+P2 / High
+
+**Title:**
+Technical issues on "Leaduri" section from adminonline.imobiliare.ro
 
 **Description:**
 Clients are unable to access the "Leaduri" section on pro.imobiliare.ro. The error displayed is 403.
@@ -105,5 +122,8 @@ Clients are unable to access the "Leaduri" section and encounter a 403 error mes
 
 **Additional Notes:**
 This issue is hindering clients' ability to manage leads effectively. It requires urgent attention to ensure seamless functionality and client satisfaction.
+
+**Status:**
+REOPEN
 
 ----------------
